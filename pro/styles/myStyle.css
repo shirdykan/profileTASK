@@ -1,0 +1,173 @@
+body 
+{
+    direction:rtl;
+}
+#mydiv{
+    width: 1361px;
+   
+}
+#bac {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+ background-image: url('../pic/back_pro.png');
+  background-position: center;
+ width:1361px;
+  height: 100%;
+  width: 115%;
+   
+    background-attachment: scroll;
+
+}
+#container {
+    
+    margin:0 auto;
+       margin-right:90px;
+    margin-left:90px;
+   
+}
+
+h1{
+    font-family:Calibri;
+    font-size:22PX;
+   
+     
+    
+}
+header{
+    color:black;
+    margin-right:400px;
+    margin-left:400px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+#pic{
+     margin-right:620px;
+    margin-left:0px;
+    margin-bottom:400px;
+    
+}
+h4{
+    background-color:#6ea642;
+    height:5px;
+    margin-right:400px;
+    margin-left:400px;
+    text-align: right;
+}
+h2{
+    font-family:Calibri;
+    font-size:20PX;
+   margin-top:50px;
+    margin-left:400px;
+    margin-right:400px;
+    text-decoration: underline;
+        color:black;
+}
+h3{
+    clear:both;
+    font-family:Calibri;
+    font-size:20PX;
+   margin-top:50px;
+   margin-bottom:30px;
+    
+    margin-right:670px;
+    text-decoration: underline;
+        color:black;
+
+}
+p{
+font-family:Calibri;
+    font-size:18PX;
+    margin-left:300px;
+    margin-top:5px;
+    margin-bottom:10px;
+    text-align:right;
+    line-height:20px;
+     margin-right:400px;
+
+}
+
+
+
+p1{
+font-family:Calibri;
+    font-size:22PX;
+    color:black;
+    margin-right:20px;
+    margin-left:700px;
+    text-align: center;
+    font-weight: bold;
+   
+}
+
+ a:hover
+{
+color:darkred;
+
+}
+ #img1:hover{
+background-color:cornflowerblue;
+    
+ }
+ #img2:hover{
+background-color:green;
+    
+ }
+ #img3:hover{
+background-color:darkred;
+    
+ }
+ ul{
+ list-style:none;
+ background-color:#d15d33;
+margin-top:50px;
+height:50px;
+color:black;
+ }
+ a{
+   list-style:none;
+   color:black; 
+ }
+
+ 
+ nav ul li{
+
+ margin-top:0px;    
+display:inline-block;
+float:none;font-family:Calibri;
+ font-size:20PX;
+ color:black;
+margin-bottom:50px;
+
+width: 90px;
+height: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+text-decoration: none;
+text-align: center;
+background-color:#d15d33;
+}
+ 
+ nav{
+     clear:both;
+font-family:Calibri;
+    font-size:30PX;
+    color:black;
+    display:block;
+    width: 512px; 
+    margin: 0 auto;
+ }
+#propic {
+ margin-right:550px;
+    margin-left:0px;
+    margin-bottom:50px;
+   margin-top:50px;
+}
+li{
+    color:black;
+}
+
+
+
